@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-photo/beautiful-cryptocurrency-hologram-design_23-2149250221.jpg?t=st=1736403512~exp=1736407112~hmac=f66b7da2f37bd3f902ed0bfa5d30cdd17bab1ac68388a9f45e6e81e5471011e6&w=1480">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Blockchain+Enthusiast;IoT+Enthusiast;Software+Engineer;Lifelong+Learner" alt="Typing Animation" />
+  <img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Blockchain+Enthusiast;IoT+Enthusiast;Software+Engineer;Lifelong+Learner" alt="Centered Image" />
 </p>
 
 
