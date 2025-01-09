@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Janjirala Adarsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Blood Banking Management System**
+- 🔭 I’m currently working on **Blockchain-Powered IoT Security Framework**
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to Deployed Projects **News Letter App, Weather_Checker App**
+- 🌱 I’m currently learning **Ethical Hacking, Blockchain**
+- 🌱 I have worked on **IoT Smart Home Security System**
+- 🌱 I have worked on **IoT-based Intruder Alert System Using Cameras and Sensors**
+- 👯 I’m looking to Deployed Projects **Blockchain-based Voting System**
 
 - 💬 Ask me about **C++,React,Java,IOT**
 
